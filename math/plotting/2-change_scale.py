@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot the exponential decay of carbon-14."""
+"""Plots the exponential decay of carbon-14."""
 import numpy as np
 import matplotlib.pyplot as plt
 
