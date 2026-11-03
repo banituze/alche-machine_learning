@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot men's heights and weights as a scatter plot."""
+"""Plots men's heights and weights as a scatter plot."""
 import numpy as np
 import matplotlib.pyplot as plt
 
