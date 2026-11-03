@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot the frequency distribution of student grades."""
+"""Plots the frequency distribution of student grades."""
 import numpy as np
 import matplotlib.pyplot as plt
 
