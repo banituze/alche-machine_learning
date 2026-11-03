@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot a cubic line graph."""
+"""Plots a cubic line graph."""
 import numpy as np
 import matplotlib.pyplot as plt
 
