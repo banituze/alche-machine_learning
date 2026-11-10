@@ -1,1 +1,3 @@
-Math
+# Math
+* Plotting
+* Linear Algebra

@@ -1,2 +1,2 @@
 # ALCHE Machine Learning
-* Plotting
+* Math
